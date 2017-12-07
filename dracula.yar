@@ -1,7 +1,7 @@
 rule Dracula
 {
 meta:
-author = "Thanatos@trollprod.org"
+author = "Th4nat0s"
 maltype = "pws"
         
     strings:
